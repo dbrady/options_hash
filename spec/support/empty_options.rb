@@ -1,0 +1,3 @@
+class EmptyOptions < OptionsHash
+
+end
